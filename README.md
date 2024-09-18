@@ -2,7 +2,7 @@
 # Introduction
 This project focuses on classifying news articles into categories such as politics, sports, and tech. It leverages various text embeddings and machine learning models to predict news categories accurately. The repository contains Jupyter Notebooks and a detailed presentation on preprocessing, model comparisons, and evaluation.
 
-#Dataset Overview
+# Dataset Overview
 The project uses two datasets:
 - news_train: For training the models.
 - news_test: For evaluating the models.
