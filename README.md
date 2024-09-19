@@ -28,4 +28,5 @@ The project uses two datasets:
 The project includes:
 - Jupyter Notebooks: Contains code for data processing, model training, and evaluation.
 - Presentation: Details preprocessing steps, model comparisons (using Bag of Words, TF-IDF, Word2Vec, FastText, BERT embeddings), and overall performance evaluation.
+- The Datasets.
 
